@@ -6,7 +6,8 @@ A simple and elegant **Digital Clock** built with **Python** and **PyQt5**. The 
 
 <img width="600" alt="Digital Clock" src="images/digital_clock.png">
 
-> *(Replace the image with a screenshot of your application.)*
+<img width="868" height="203" alt="image" src="https://github.com/user-attachments/assets/83f1b4db-309e-4f7e-bea6-7976ff8d80c5" />
+
 
 ---
 
