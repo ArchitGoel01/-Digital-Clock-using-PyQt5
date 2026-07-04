@@ -36,7 +36,6 @@ Digital-Clock/
 │
 ├── digital_clock.py
 ├── README.md
-├── requirements.txt
 └── images/
     └── digital_clock.png
 ```
